@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: zenpy
+Version: 2.0.24
+Summary: Python wrapper for the Zendesk API
+Home-page: https://github.com/facetoe/zenpy
+Author: Face Toe
+Author-email: facetoe@facetoe.com.au
+License: GPLv3
+Download-URL: https://github.com/facetoe/zenpy/releases/tag/2.0.24
+Description: UNKNOWN
+Keywords: zendesk,api,wrapper
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Natural Language :: English
